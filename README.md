@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/GKrellM](https://draculatheme
 
 
 ## Screenshot
-![GKrellM](./img/Screenshot.png)
+![Screenshot](./img/Screenshot.png)
 
 ## Links
 
