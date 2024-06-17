@@ -1,0 +1,11 @@
+Style *.textcolor = #f8f8f2 #000000 none
+Style *.alt_textcolor = #f8f8f2 #000000 none
+
+StyleChart *.textcolor = #f8f8f2 #000000 none
+StyleChart *.alt_textcolor = #f8f8f2 #000000 none
+
+StylePanel *.textcolor = #f8f8f2 #000000 none
+StylePanel *.alt_textcolor = #f8f8f2 #000000 none
+
+StyleMeter *.textcolor = #f8f8f2 #000000 none
+StyleMeter *.alt_textcolor = #f8f8f2 #000000 none

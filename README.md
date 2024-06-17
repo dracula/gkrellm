@@ -2,9 +2,14 @@
 
 > A dark theme for [GKrellM](http://gkrellm.srcbox.net/) and many more.
 
-![Screenshot](./img/Screenshot.png)
+| ![Screenshot](./img/Screenshot.png) | ![Screenshot](./img/Screenshot_1.png) |
+|:-----------------------------------:|:-------------------------------------:|
+| Dark                                | Darker |
 
-![GKrellM](./img/GKrellM.gif)
+
+| ![GKrellM](./img/GKrellM.gif) | ![GKrellM](./img/GKrellM_1.gif) |
+|:-----------------------------:|:-------------------------------:|
+| Dark                          | Darker |
 
 > Based on the [Breeze Theme](https://github.com/phd/breeze-gkrellm-theme)
 
