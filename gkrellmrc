@@ -1,6 +1,6 @@
 author = "Timur A. Issanov <timur.issanov@gmail.com>"
 
-theme_alternatives = 0
+theme_alternatives = 1
 
 Style *.textcolor = #f8f8f2 #000000 none
 Style *.alt_textcolor = #f8f8f2 #000000 none
